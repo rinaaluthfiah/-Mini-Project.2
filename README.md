@@ -80,11 +80,6 @@ Disini terlihat salah satu nomor produk dihapus oleh Mimin menggunakan fitur hap
     Pada gambar  diatas menunjukkan  adanya perubahan produk yang dilakukan oleh Mimin yaitu mengubah Nama Barang
 
 
-    Saat barang diubah ototmatis  menunjukkan seperti pada gambar diatas pada barang Nomor "7"
-
-
-    harga pada gambar nomor produk "7
-
      <img width="510" alt="{6350BDFF-9AF1-4453-98B9-481B136D02D8}" src="https://github.com/user-attachments/assets/4d63f179-8347-4249-b43d-0dff1c3ade0d">
 
      Tampilan keseluruhan ketika melakukan pembaruan pada produk
@@ -92,14 +87,10 @@ Disini terlihat salah satu nomor produk dihapus oleh Mimin menggunakan fitur hap
      5. Keluar (kembali ke menu awal)
 
     disini mimin sudah menggunakan semua fitur  yang tersedia,maka jika sudah dirasa cukup mimin bisa memilih 
-    jika memilih "y" maka akan ke menu awal  ,tetapi ketika memilih tidak maka akan diarakah ulang ke menu loginn untuk fiturnya 
+    jika memilih "y" maka akan ke menu awal 
 
-
-** Mimin melakukan input "y"
 <img width="476" alt="{9EF7C7BB-B5B5-49CC-B3AF-0113D0D2B169}" src="https://github.com/user-attachments/assets/02567153-8c2f-4f04-b1ef-144a753d3839">
 
-
-** Mimin melakukan input "n"
 
 # Menu Pembeli 
 
