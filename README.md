@@ -103,6 +103,7 @@ Disini terlihat salah satu nomor produk dihapus oleh Mimin menggunakan fitur hap
 
 # Menu Pembeli 
 
+<img width="365" alt="{7845A66F-EE90-42C4-8FF4-6C5AF9ADA2F3}" src="https://github.com/user-attachments/assets/b2e6e4cd-49a5-4206-a935-7e5dc32b6d26">
 
 Ketika user melakukan input angka 2 maka  otommatis akan masuk ke  mode pembeli yang dimana  akan langsung menampilkan 
 
