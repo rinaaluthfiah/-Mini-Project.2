@@ -19,13 +19,10 @@ Pada Gambar ini disediakan dua pilihan login user ingin  menjadi Penjual (mimin)
     2. Pembeli 
         Untuk pembeli hanya dapat melakukan transaksi pada produk yang disediakan
 
-  ** jika user input angka 3 maka tidak  tersedia "
-
-
   # Mode Admin
 
   
-  Tampilan awal ketika memilih mode Mimin,user diberi 5 Fitur seperti pada gambar
+  Tampilan awal ketika memilih mode Mimin,user diminta untuk melakukan input Username dan Password dengan benar  
 
 
   *** User diminta untuk menginput fitur dengan angka yang di sediakam  sesuai keinginan 
