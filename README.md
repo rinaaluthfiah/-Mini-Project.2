@@ -8,7 +8,7 @@ Isrina Luthfiah | 2409116003 | Kelas A'2024 Sistem Informasi |Sistem Pemesanan G
 
 # Menu  Login 
 
-
+<img width="457" alt="{52A396E0-C2C9-4FE8-A4AC-5EF0EF5E7686}" src="https://github.com/user-attachments/assets/3fc2e77e-3432-43d6-8b92-629056cc2faf">
 
 Pada Gambar ini disediakan dua pilihan login user ingin  menjadi Penjual (mimin) dan pembeli
 
