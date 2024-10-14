@@ -43,7 +43,7 @@ Pada Gambar ini disediakan dua pilihan login user ingin  menjadi Penjual (mimin)
 
     ** Jika mimin inputkan "y"
    
-    <img width="235" alt="{BCB361D6-B675-4DF5-98C0-45E006D7B506}" src="https://github.com/user-attachments/assets/8e81a8ab-03ba-483f-a6af-48eae0142173">
+<img width="361" alt="{0913C687-1DDE-438C-82B5-5373E509B660}" src="https://github.com/user-attachments/assets/ede9e583-f4f1-488e-80a2-8f4dc5a44d49">
 
   maka otomatis akan kembali melakukan input barang kembali 
 
@@ -64,7 +64,8 @@ Fitur lihat produk digunakan untuk melihat produk apa saja yang tersedia.
     
      Sebelum Mimin menghapus produk
 
-     <img width="384" alt="{C410B5B2-F413-48CA-BEAA-2BADFDF86306}" src="https://github.com/user-attachments/assets/82ada746-0fc6-405b-b422-b104a1c74cda">
+<img width="458" alt="{890B29BE-D625-4051-9DC5-D4B9154155F5}" src="https://github.com/user-attachments/assets/565b3c31-1d01-4ac2-821b-3e82ecbf6d38">
+
 
      Setelah Mimin menghapus produk ,maka ke akan langsung  terhapus 
 
@@ -79,8 +80,8 @@ Disini terlihat salah satu nomor produk dihapus oleh Mimin menggunakan fitur hap
 
     Pada gambar  diatas menunjukkan  adanya perubahan produk yang dilakukan oleh Mimin yaitu mengubah Nama Barang
 
+<img width="399" alt="{C9662D55-6975-476E-A24D-B590C6B1046A}" src="https://github.com/user-attachments/assets/e263e205-2068-4491-b7aa-b748283ab39c">
 
-     <img width="510" alt="{6350BDFF-9AF1-4453-98B9-481B136D02D8}" src="https://github.com/user-attachments/assets/4d63f179-8347-4249-b43d-0dff1c3ade0d">
 
      Tampilan keseluruhan ketika melakukan pembaruan pada produk
 
