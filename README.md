@@ -96,7 +96,19 @@ Disini terlihat salah satu nomor produk dihapus oleh Mimin menggunakan fitur hap
 
 <img width="365" alt="{7845A66F-EE90-42C4-8FF4-6C5AF9ADA2F3}" src="https://github.com/user-attachments/assets/b2e6e4cd-49a5-4206-a935-7e5dc32b6d26">
 
-Ketika user melakukan input angka 2 maka  otommatis akan masuk ke  mode pembeli yang dimana  akan langsung menampilkan 
+Ketika user melakukan input angka 2 maka  otommatis akan masuk ke  mode pembeli yang dimana  akan langsung menampilkan seperti pada gambar 
+
+<img width="348" alt="{3D47798C-B458-4061-B4DD-C66EB61CE47D}" src="https://github.com/user-attachments/assets/0c890157-ece1-4415-a3e5-7e5937c7af07">
+
+Disini pembeli disuruh untuk melakukan input nama 
+
+<img width="353" alt="{621468A9-0520-4523-955D-56F30979901B}" src="https://github.com/user-attachments/assets/f0ac6e66-afa4-4f35-ba24-ee128b8b2e89">
+
+Setelah itu User disuruh untuk input no produk yang ingin dibeli 
+
+<img width="349" alt="{A1D00D18-EF4A-4DD1-A7DE-6E1D43E294B5}" src="https://github.com/user-attachments/assets/d2d54fb9-81e8-4779-82cc-6cfd03163005">
+
+Setelah itu input jumlah produk yang akan dibeli dan terakhir akan mengampilkan keseluruhan harga yang harus dibayar ,maka program selesai.
 
     
 
