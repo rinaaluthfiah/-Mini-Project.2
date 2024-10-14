@@ -33,7 +33,7 @@ Pada Gambar ini disediakan dua pilihan login user ingin  menjadi Penjual (mimin)
   # <sub>penjelasan fitur Admin</sub>
 1. Tambah Produk 
 
-<img width="384" alt="{A64BE592-7B4F-41C9-A626-167EADEA0A31}" src="https://github.com/user-attachments/assets/b1d62c33-2f31-4fc8-966a-bcf2382451dc">
+<img width="510" alt="{5CAB6609-0907-4D60-839B-9D42C44DBF74}" src="https://github.com/user-attachments/assets/38aad26d-3329-4482-aa26-c6a5dd091a4e">
 
     Jika user input angka 1 maka user akan masuk  dalam fitur "Tambah Produk"
 
